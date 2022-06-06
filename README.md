@@ -4,7 +4,6 @@ Tweets scraping anonymously using [twint](https://github.com/twintproject/twint)
 
 <b>Use at your own risk<b>
 
-<br>
 
 ## ⚙️ Technologies
 
@@ -18,7 +17,8 @@ Tweets scraping anonymously using [twint](https://github.com/twintproject/twint)
 
 - Save them into a custom dataframe using Pandas and select the available columns (attributes) provided by twint.
 <br>
-<br>
+
+
 ## 🔧 Installation
 <br>
 
