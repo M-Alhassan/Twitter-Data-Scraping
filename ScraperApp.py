@@ -13,7 +13,6 @@ if (username != ''):
     c.Username = username
 
 c.Min_likes = input('Minimum number of likes: ')
-
 c.Min_replies = input('Minimum number of replies: ')
 c.Min_retweets = input('Minimum number of retweets: ')
 c.Since = input('specify start date (YYYY-MM-DD): ')
